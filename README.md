@@ -1,4 +1,4 @@
-````md
+
 # Project README
 
 This repository demonstrates a simple Python project setup with a few basic operations, including environment preparation and example search commands.
